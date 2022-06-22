@@ -1,0 +1,10 @@
+{
+  "domain": "eltako",
+  "name": "Eltako ESP2 Integration",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["eltakobus==0.0.7"],
+  "iot_class": "local_polling",
+  "version": "0.1.0"
+}
